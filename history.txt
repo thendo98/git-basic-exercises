@@ -1,0 +1,755 @@
+    1  git commit -m "stracture"
+    2  git push
+    3  pytest 
+    4  python3 -m pytest
+    5  clear
+    6  pytest 
+    7  python3 -m pytest
+    8  clear
+    9  python3 -m pytest
+   10  clear
+   11  python3 -m pytest
+   12  black tests/test_password_is_valid.py 
+   13  clear
+   14  python3 -m pytest
+   15  black tests/test_password_is_valid.py 
+   16  python3 password_checker/password_checker.py 
+   17  python3 -m pytest
+   18  clear
+   19  python3 -m pytest
+   20  clear
+   21  python3 -m pytest
+   22  clear
+   23  python3 -m pytest
+   24  python3 password_checker/password_checker.py 
+   25  python3 -m pytest
+   26  clear
+   27  python3 password_checker/password_checker.py 
+   28  clear
+   29  python3 password_checker/password_checker.py 
+   30  python3 -m pytest
+   31  python3 password_checker/password_checker.py 
+   32  clear
+   33  python3 password_checker/password_checker.py 
+   34  clear
+   35  python3 -m pytest
+   36  clear
+   37  python3 password_checker/password_checker.py 
+   38  clear
+   39  python3 -m pytest
+   40  python3 password_checker/password_checker.py 
+   41  python3 -m pytest
+   42  clear
+   43  python3 password_checker/password_checker.py 
+   44  clear
+   45  python3 -m pytest
+   46  clear
+   47  python3 password_checker/password_checker.py 
+   48  clear
+   49  python3 -m pytest
+   50  clear
+   51  python3 password_checker/password_checker.py 
+   52  python3 -m pytest
+   53  python3 password_checker/password_checker.py 
+   54  python3 -m pytest
+   55  python3 -m pytest
+   56  python3 password_checker/password_checker.py 
+   57  python3 -m pytest
+   58  python3 -m pytest
+   59  clear
+   60  python3 -m pytest
+   61  clear
+   62  python3 -m pytest
+   63  clear
+   64  python3 -m pytest
+   65  clear
+   66  python3 password_checker/password_checker.py 
+   67  clear
+   68  python3 password_checker/password_checker.py 
+   69  python3 -m pytest
+   70  python3 password_checker/password_checker.py 
+   71  clear
+   72  python3 password_checker/password_checker.py 
+   73  python3 -m pytest
+   74  pip install contextlib
+   75  python3 -m pytest
+   76  python3 siphol2.py clear
+   77  clear
+   78  python3 siphol2.py clear
+   79  clear
+   80  python3 siphol2.py clear
+   81  clear
+   82  python3 siphol2.py clear
+   83  python3 siphol2.py 
+   84  clear
+   85  python3 siphol2.py 
+   86  clear
+   87  python3 siphol2.py 
+   88  clear
+   89  python3 siphol2.py 
+   90  clear
+   91  python3 siphol2.py 
+   92  clear
+   93  python3 siphol2.py 
+   94  clear
+   95  python3 siphol2.py 
+   96  clear
+   97  python3 siphol2.py 
+   98  clear
+   99  python3 siphol2.py 
+  100  black setup.py 
+  101  black tests/test_south_african_id.py 
+  102  python3 -m pytest
+  103  pwd
+  104  ls
+  105  cd ..
+  106  ls
+  107  cd khuvh/
+  108  ls
+  109  clear
+  110  cd OneDrive/Desktop/
+  111  ls
+  112  cd Umuzi\ work/
+  113  ls
+  114  git clone https://github.com/likhuvhe/Password-cheker.git password-checker
+  115  clear
+  116  ls
+  117  code .
+  118  cd password-checker/
+  119  code .
+  120  cd 
+  121  pwd
+  122  ls
+  123  cd simple-culc/
+  124  cd ../simple_culculator/
+  125  ls
+  126  code .
+  127  cd
+  128  ls
+  129  cd sa-id/
+  130  ls
+  131  git status
+  132  git branch
+  133  clear
+  134  code .
+  135  clear
+  136  brew install curl
+  137  curl
+  138  sudo apt-get install terminator
+  139  terminator
+  140  python3 siphol2.py 
+  141  clear
+  142  python3 siphol2.py 
+  143  clear
+  144  python3 siphol2.py 
+  145  clear
+  146  python3 siphol2.py 
+  147  clear
+  148  python3 siphol2.py 
+  149  black tests/test_south_african_id.py 
+  150  python3 -m pytest
+  151  clear
+  152  python3 -m pytest
+  153  clear
+  154  python3 -m pytest
+  155  git add .
+  156  -m "
+  157  git commit -m tests/test_south_african_id.py 
+  158  git push
+  159  cd
+  160  pwd
+  161  ls
+  162  e[xit; exit
+  163  exit
+  164  /bin/python3
+  165  clear
+  166  python3 -m pytest
+  167  clear
+  168  python3 -m pytest
+  169  clear
+  170  python3 -m pytest
+  171  pwd
+  172  ls
+  173  cd OneDrive/Desktop/
+  174  ls
+  175  cd Umuzi\ work/
+  176  ls
+  177  cd password-checker/
+  178  ls
+  179  code .
+  180  git commit -m tests/test_south_african_id.py 
+  181  python siphol2.py 
+  182  python3 siphol2.py 
+  183  python3 siphol2.py 
+  184  clear
+  185  python3 siphol2.py 
+  186  clear
+  187  python3 siphol2.py 
+  188  git add .
+  189  git commit
+  190  git commit -m "init"
+  191  git push
+  192  clear
+  193  git clone https://github.com/Umuzi-org/Sipho-Dlamini-224-animals-part-1-oop-basics-python.git
+  194  cd Sipho-Dlamini-224-animals-part-1-oop-basics-python/
+  195  git fetch
+  196  git branch -a
+  197  git checkout origin/person
+  198  python3 home_class.py 
+  199  cd ..
+  200  python3 siphol2.py 
+  201  git checkout -b p_checkout
+  202  git branch
+  203  git checkout -b p_checkout
+  204  git status
+  205  git branch
+  206  clear
+  207  git branch
+  208  git checkout -b p_checkout
+  209  git branch p_checker
+  210  clear
+  211  git branch
+  212  git checkout p_checker 
+  213  python3 pytest
+  214  python3 -m pytest
+  215  python3 password_checker/password_checker.py 
+  216  python3 -m pytest
+  217  black password_checker/password_checker.py 
+  218  python3 password_checker/password_checker.py 
+  219  python3 -m pytest
+  220  python3 password_checker/password_checker.py 
+  221  python3 -m pytest
+  222  clear
+  223  python3 -m pytest
+  224  clear
+  225  python3 -m pytest
+  226  clear
+  227  python3 -m pytest
+  228  clear
+  229  python3 password_checker/password_checker.py 
+  230  python3 -m pytest
+  231  python3 password_checker/password_checker.py 
+  232  python3 -m pytest
+  233  python3 password_checker/password_checker.py 
+  234  python3 -m pytest
+  235  python3 password_checker/password_checker.py 
+  236  python3 -m pytest
+  237  clear
+  238  black tests/test_password_is_ok.py 
+  239  black tests/test_password_is_valid.py 
+  240  black password_checker/password_checker.py 
+  241  python3 -m pytest
+  242  python3 password_checker/password_checker.py 
+  243  python3 -m pytest
+  244  black password_checker/password_checker.py 
+  245  python3 -m pytest
+  246  git status
+  247  git add .
+  248  git commit -m "password checker"
+  249  git push
+  250  git push --set-upstream origin p_checker
+  251  clear
+  252  ls
+  253  clear
+  254  cd ..
+  255  exit
+  256  git checkout task05
+  257  git checkout task1.5
+  258  java task05.java
+  259  git add .
+  260  git commit -m
+  261  git commit -m task05.java 
+  262  git push
+  263  cd OneDrive/Desktop/Umuzi\ work/mCode/
+  264  code .
+  265  cd OneDrive/Desktop/Umuzi\ work/
+  266  ls
+  267  cd java-level1/
+  268  code .
+  269  cd ..
+  270  ls
+  271  cd 
+  272  ls
+  273  cd morsecode/
+  274  code .
+  275  java morseCode
+  276  java morseCode.java
+  277  clear
+  278  java morseCode.java
+  279  java morseCode.java\
+  280  java morseCode.java
+  281  git add .
+  282  git commit -m morseCode.java 
+  283  git push
+  284  git push --set-upstream origin mCode
+  285  java morseCode.java
+  286  git add .
+  287  git commit -m morseCode.java 
+  288  git push
+  289  java morseCode.java
+  290  clear
+  291  java morseCode.java
+  292  clear
+  293  java morseCode.java
+  294  clear
+  295  java morseCode.java
+  296  git checkout -b   b gitignore
+  297  git checkout -b gitignore
+  298  git add .
+  299  git commit -m .gitignore 
+  300  git push
+  301  git push --set-upstream origin gitignore
+  302  git status
+  303  git checkout main
+  304  git branch -b person
+  305  git checkout -b person
+  306  java person.java
+  307  git
+  308  git branch
+  309  git checkout main
+  310  git status
+  311  git checkout -b gitignore
+  312  git add .
+  313  git status
+  314  git push
+  315  git push --set-upstream origin gitignore
+  316  git checkout main
+  317  clear
+  318  git pull
+  319  git checkout -b gitignore
+  320  git branch -d gitignore 
+  321  git checkout -b gitignore
+  322  git add .
+  323  git commit -m gitignore
+  324  git push
+  325  git push --set-upstream origin gitignore
+  326  clear
+  327  java morseCode.javaclear
+  328  java morseCode.java
+  329  git add .
+  330  git commit -m morseCode.java 
+  331  git push
+  332  git status
+  333  git add .
+  334  git commit -m gitignore
+  335  git push
+  336  python3 siphol2.py 
+  337  python3 morse_code.py 
+  338  java person.java
+  339  clear
+  340  java person.java
+  341  clear
+  342  java person.java
+  343  clear
+  344  java person.java
+  345  clear
+  346  java person.java
+  347  clear
+  348  java person.java
+  349  clear
+  350  git add .
+  351  git commit -m person.java 
+  352  git push
+  353  git push --set-upstream origin person
+  354  clear
+  355  git branch
+  356  git checkout gitignore 
+  357  java morseCode.java
+  358  cd OneDrive/Desktop/Umuzi\ work/animal/
+  359  git branch
+  360  code .
+  361  java Main.java
+  362  java Main.java cd "/mnt/c/Users/khuvh/OneDrive/Desktop/Umuzi work/animal" ; /usr/bin/env /usr/lib/jvm/java-11-openjdk-amd64/bin/java -Dfile.encoding=UTF-8 -cp /home/khuvheli/.vscode-server/data/User/workspaceStorage/d487e2b5e4ca64052307f148878df2cd/redhat.java/jdt_ws/animal_b44acd0b/bin animal.src.App 
+  363  clear
+  364  java animal.src.App.java
+  365  java animal/src/App.java
+  366  clear
+  367  java animal.src.App
+  368  cd "/mnt/c/Users/khuvh/OneDrive/Desktop/Umuzi work/animal" ; /usr/bin/env /usr/lib/jvm/java-11-openjdk-amd64/bin/java -Dfile.encoding=UTF-8 -cp /home/khuvheli/.vscode-server/data/User/workspaceStorage/d487e2b5e4ca64052307f148878df2cd/redhat.java/jdt_ws/animal_b44acd0b/bin animal.src.App 
+  369  java /mnt/c/Users/khuvh/OneDrive/Desktop/Umuzi work/animal/animal/src/App.java
+  370  java animal.src.App
+  371  java animal/src/App.java
+  372  clear
+  373  git add .
+  374  git sommit -m "animal"
+  375  git commit -m "animal"
+  376  git push
+  377  ls
+  378  clear
+  379  ls /
+  380  ls ~
+  381  ls home
+  382  ls 
+  383  clear
+  384  ls /
+  385  git clonA
+  386  clear
+  387  exit
+  388  git push -f
+  389  git log
+  390  node
+  391  node -v
+  392  sudo apt install nodejs
+  393  node -v
+  394  node level0Task1.js 
+  395  n0 level0Task1
+  396  git add leveloTask1
+  397  git commit -m ( git commit "add leveloTask1")
+  398  git commit -m "level0Task1.js" 
+  399  git add leveloTask1.js
+  400  git add level0Task1.js
+  401  git status
+  402  git push
+  403  git commit -m "add level0Task1"
+  404  git push
+  405  git rebase 
+  406  clear
+  407  git log
+  408  git rebase 9f18~
+  409  git log
+  410  git rebase 9f18c7~
+  411  git log
+  412  git rebase C9f18c709055ac9919a6f8f0b2eca2ae0ed3e447a
+  413  git rebase 9f18c709055ac9919a6f8f0b2eca2ae0ed3e447a
+  414  git log
+  415  git rebase 8d12429 
+  416  git reset --hard HEAD~1
+  417  git log
+  418  clear
+  419  git status
+  420  git log
+  421  git stutas
+  422  git status
+  423  node leve0Task2.js
+  424  node level0Task2.js
+  425  git add level0Task2.js
+  426  git status
+  427  git commit -m "add Task 2"
+  428  git push
+  429  J2HNLfPtAibTHrr1S0P9vxr4BfXi2git psh
+  430  git push
+  431  git status
+  432  git config --list
+  433  git config --global user.name "thendo98"
+  434  git config --global user.email "mufamadi.thrndo@gmail.com"
+  435  git config --list
+  436  git add .
+  437  git status
+  438  git commit -m "add task 1 and 2"
+  439  git status
+  440  git push
+  441  clear
+  442  git push
+  443  git congig --list
+  444  git config --list
+  445  clear
+  446  git push
+  447  nodelevel0Task3
+  448  nodelevel0Task3.js
+  449  node level0Task3.js
+  450  git add level0Task3.js
+  451  git commit -m "add level0Task3"
+  452  git commit -m "add commit  level0Task3"
+  453  git status
+  454  git add level0Task3.js
+  455  git commit -m "add level0Task.js"
+  456  git config --list
+  457  git status
+  458  git add level0Task3.js
+  459  git status
+  460  git commit -m "add level0Task3.js"
+  461  git push
+  462  git status
+  463  node level0Task4.js
+  464  git add level0Task4.js
+  465  git status
+  466  git commit -m "level0Task4.js"
+  467  git push
+  468  git status
+  469  node level0Task5.js
+  470  git add level0Task5.js
+  471  clear
+  472  git status
+  473  clear
+  474  git status
+  475  git add level0Task5.js
+  476  git commit -m "add level0Task5.js"
+  477  git push
+  478  node level0Task6.js
+  479  git add level0Task6.js
+  480  git status
+  481  git commit -m "add level0Task6.js"
+  482  git push
+  483  git config --list
+  484  git config --global  user.name "thendo98"
+  485  node level0Task8.js
+  486  git add level0Task8.js
+  487  git status
+  488  git commit -m "level0Task8.js"
+  489  git push
+  490  node level0Task9.js
+  491  ode level0Task9.j
+  492  node level0Task9.js
+  493  node level0Task10.js
+  494  git status
+  495  node level0Task2.js
+  496  git status
+  497  clear
+  498  ls 
+  499  clear
+  500  git clone
+  501  git clone https://github.com/Umuzi-org/Thendo-Mufamadi-606-tilde-project-tutorial-how-repo-projects-work-.git
+  502  ls
+  503  cd
+  504  cd -
+  505  exit
+  506  git branch
+  507  git -b important
+  508  git branch
+  509  git checkout -b important.md
+  510  git checkout -b repowork switch to a new branch 'repowork'
+  511  git branch repowork
+  512  git checkout
+  513  git branch -a
+  514  git checkout -b <repowork> <commit_sha>
+  515  git checkout -b <repowork> <commit_repowork>
+  516  git checkout -b repowork commit_sha
+  517  git checkout -b repowork commit_repowork
+  518  git branch repowork
+  519  git checkout repowork
+  520  git branch -a
+  521  git branch repowork commit_sha
+  522  git log --online --graph
+  523  git log --online --graph *91277 (HEAD-> master) commit3 *f2fcb99 commit2 *cab6e1b (origin/master) master: initial commit
+  524  git log --online --graph *91277 (HEAD-> master) commit3 *f2fcb99 commit2 *cab6e1bb origin/master master: initial commit
+  525  git log --online --graph *91277 HEAD-> maste commit3 *f2fcb99 commit2 *cab6e1bb origin/master master: initial commit
+  526  git <command> --<path>--
+  527  git branch repowork tag repowork
+  528  git tag
+  529  git tag v1.0
+  530  git status
+  531  git branch
+  532  git branch -d important
+  533  git branch -d important.md 
+  534  clear
+  535  git branch
+  536  clone important.md
+  537  cd important.md
+  538  cd _important.md-test-repo/
+  539  cd _important.md
+  540  cd-T
+  541  cdT
+  542  git checkout -b repowork
+  543  git checkout -b repowork.md
+  544  git branch repowork.md
+  545  git checkout repowork.md
+  546  vim index.html
+  547  ls
+  548  cd how repo works
+  549  cd T
+  550  cdT
+  551  mkdir
+  552  mkdir git-basic-exercises
+  553  mkdir git -basic-exercises
+  554  mkdir git-basic-exercises
+  555  ls
+  556  cd git-basic-exercises
+  557  ls -a
+  558  git init
+  559  ls -a
+  560  git status
+  561  touch README.md
+  562  ls -a
+  563  git status
+  564  git log
+  565  ~git add README.md
+  566  git add README.md
+  567  git status
+  568  git commit -m "initial commit"
+  569  git log
+  570  q
+  571  git log q
+  572  git log
+  573  nano README.md
+  574  cat README.md
+  575  git status
+  576  second commit
+  577  "second commit"
+  578  git commit -m "second commit"
+  579  git commit -m "third commit"
+  580  git log
+  581  git-basic-exercises
+  582  cd
+  583  ls -a
+  584  git-basic-exercises
+  585  cd
+  586  ls -a
+  587  clear
+  588  ls
+  589  mkdir
+  590  mkdir git-basic-exercises
+  591  ls -a
+  592  mkdir git-basic-exercises
+  593  cd
+  594  ls -a
+  595  cd -
+  596  cd - git-basic-exercise
+  597  ls -a
+  598  cd git-basic-exercise
+  599  git status
+  600  git add important.md
+  601  git commit -m "commit imporntant.md"
+  602  git push
+  603  git config -- list
+  604  git config--list
+  605  git config --list
+  606  clear
+  607  git push
+  608  git push --set-upstream origin repowork.md
+  609  mkdir git-basic-exercises
+  610  cd git-basic-exercises
+  611  ls -a
+  612  git init
+  613  ls -a
+  614  git status
+  615  touch README.md
+  616  ls -a
+  617  git status
+  618  git log
+  619  git add README.md
+  620  git status
+  621  git commit -m "initial commit"
+  622  git log
+  623  q
+  624  nano README.md
+  625  cat README.md
+  626  git commint -m "second commit"
+  627  git commit -m "second commit"
+  628  git add README.md
+  629  git commit -m "second commit"
+  630  git commint -m "third commit"
+  631  git commit -m "third commit"
+  632  git log
+  633  git add README.md
+  634  git commit -m "third commit"
+  635  nano README.md
+  636  cat README.md
+  637  git status
+  638  git add README.md
+  639  git commit -m "third commit"
+  640  git log
+  641  q
+  642  git checkout
+  643  git checkout 9d18ed0d7db5e35e5945b47159cc658ced43ecb6
+  644  git cat README.md
+  645  git checkout main
+  646  cat README.md
+  647  git checkout
+  648  git checkout 9d18ed0d7db5e35e5945b47159cc658ced43ecb6q
+  649  git checkout 9d18ed0d7db5e35e5945b47159cc658ced43ecb6
+  650  q
+  651  cat README.md
+  652  git checkout main
+  653  cat README.md
+  654  git checkout
+  655  git branch
+  656  git branch new branch
+  657  git checkout -b "milkshake-flavours
+  658  git checkout -b "milkshake-flavours"
+  659  git checkou -b "milkshake-flavours"
+  660  git checkout -b "milkshake-flavours"
+  661  git branch
+  662  nano milkshake.md
+  663  git status
+  664  git add milkshake.md
+  665  git commit -b "added initial flavours"
+  666  git log
+  667  git checkout
+  668  git checkout -b history
+  669  git log
+  670  git branch
+  671  history > history.txt
+  672  git commit -b "added history"
+  673  git log
+  674  git checkout milkshake
+  675  git checkout milkshake.md
+  676  git log
+  677  git commit -b "random readme changes"
+  678  git checkout history
+  679  cat README.md
+  680  nano history
+  681  git commit -b history
+  682  git commit -b "rewrote readme"
+  683  git checkout
+  684  checkout
+  685  git checkout master
+  686  ls
+  687  git log
+  688  git checkout milkshake-flavours
+  689  ls
+  690  git log
+  691  git commit -m history
+  692  git checkout
+  693  git checkout history
+  694  git log
+  695  git checkout main
+  696  git checkout master
+  697  ls
+  698  git log
+  699  git checkout milkshake-flavours
+  700  ls
+  701  git log
+  702  git commit -b "random readme changes"
+  703  git log
+  704  git checkout history 
+  705  ls
+  706  git log
+  707  mkdir git-basic-exercises
+  708  cd  git-basic-exercises
+  709  ls -a
+  710  git init
+  711  ls -a
+  712  git status
+  713  touch README.md
+  714  ls -a
+  715  git status
+  716  git log
+  717  git add README.md 
+  718  git status
+  719  git rm --cached README.md 
+  720  git status
+  721  git add README.md 
+  722  git commit -m "initial commit"
+  723  git log
+  724  nano README.md 
+  725  cat README.md 
+  726  git status
+  727  git add README.md 
+  728  git commit -m "second commit"
+  729  nano README.md 
+  730  cat README.md 
+  731  git status
+  732  git add README.md 
+  733  git commit -m "third commit"
+  734  git log
+  735  git checkout
+  736  git checkout 41a2e2a334f4c09396f5a68aa7724e0630820772
+  737  cat README.md 
+  738  git checkout master
+  739  cat README.md 
+  740  git branch
+  741  git branch milkshake-flavours
+  742  git branch
+  743  git checkout milkshake-flavours 
+  744  git branch
+  745  nano milkshakes.md
+  746  git status
+  747  git add milkshakes.md 
+  748  git commit -m "added initial flavours"
+  749  git log
+  750  git checkout master 
+  751  git branch history
+  752  git checkout history
+  753  git log
+  754  git branch
+  755  history > history.txt
