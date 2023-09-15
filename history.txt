@@ -1,0 +1,232 @@
+    1  sudo apt install updates
+    2  sudo apt install update
+    3  sudo apt update
+    4  sudo apt install gcc
+    5  clear
+    6  sudo apt install vim
+    7  zsh
+    8  exit
+    9  zsh
+   10  cd 
+   11  ls -la
+   12  git status
+   13  clear
+   14  gcc
+   15  clear
+   16  cd
+   17  sudo apt install zsh 
+   18  sudo dpkg --configure -a apt install zsh 
+   19  sudo dpkg --configure -a
+   20  sudo apt install zsh 
+   21  zsh
+   22  exit
+   23  ls | ip
+   24  ls | ip address
+   25  ls | help
+   26  make re
+   27  make clean
+   28  clear\
+   29  clear
+   30  reboot
+   31  cd
+   32  .j;~~
+   33  ls -la
+   34  git config --list
+   35  git config --global user.name "thendo98"
+   36  git config --global user.email "thendo.mufamadi@gmail.com"
+   37  git config --list
+   38  git t config --list
+   39  git config --list
+   40  git clone https://github.com/Umuzi-org/Thendo-Mufamadi-224-animals-part-1-oop-basics-javascript.git
+   41  git clonehttps://github.com/Umuzi-org/Thendo-Mufamadi-273-simple-calculator-part-1-javascript.git
+   42  clone https://github.com/Umuzi-org/Thendo-Mufamadi-273-simple-calculator-part-1-javascript.git
+   43  git clone https://github.com/Umuzi-org/Thendo-Mufamadi-273-simple-calculator-part-1-javascript.git
+   44  node animal.js 
+   45  git add animal.js 
+   46  git branch
+   47  git commint -m "animal.js"
+   48  git commint -m animal.js
+   49  git commit -m "animal.js" 
+   50  git push
+   51  git push --set-upstream origin animal.js
+   52  node simple\ -calculate.js 
+   53  git branch
+   54  git checkout animal_part_1
+   55  git add animal_part_1
+   56  node animal_part_1 
+   57  git branch
+   58  node animal.js
+   59  git add animal.js
+   60  git commit -m "animal.js" 
+   61  git status
+   62  git commit -a "animal_part_1"
+   63  git brach -d animal_part_1
+   64  git branch -d animal_part_1
+   65  git branch
+   66  git push
+   67  npm add jasmine
+   68  npx jasmine init
+   69  sudo apt install <deb name>
+   70  sudo apt install <jusmine>
+   71  npx jasmine examples
+   72  npm init
+   73  npm init
+   74  npm add jasmine
+   75  npm init
+   76  npm install --save-dev jasmine
+   77  npx jasmine init
+   78  sudo apt install npx
+   79  sudo apt install npxsudo dpkg --configure -a
+   80  npx jasmine init
+   81  sudo apt install npx
+   82  npm install -g npx
+   83  sudo npm install -g npx
+   84  npm add ja
+   85  npm init
+   86  npn  add jasmine
+   87  npx  add jasmine
+   88  npx add jasmine
+   89  npm jasmine  init
+   90  npm install --save-dev jasmine
+   91  npx jasmine init
+   92  npm test
+   93  npx jasmine examples
+   94  npm add jasmine
+   95  npx jasmine init
+   96  npx jasmine examples
+   97  npm init
+   98  clear
+   99  npm install --save-dev jasmine
+  100  ls -la
+  101  npm install --save-dev jasmine
+  102  npx jasmine init
+  103  npm install --save-dev jasmine
+  104  npx jasmine init
+  105  npm install --save-dev jasmine
+  106  npx jasmine init
+  107  clear
+  108  sudo apt install updates
+  109  sudo apt update
+  110  sudo apt ugrade
+  111  sudo apt upgrade
+  112  sudo apt install upgrade
+  113  sudo apt-install upgrade
+  114  sudo apt-get upgrade
+  115  sudo apt upgrade
+  116  sudo dpkg --configure -a
+  117  sudo apt upgrade
+  118  sudo dpkg --configure -a
+  119  sudo apt install npm
+  120  npm init
+  121  sudo apt-get remove nodejs
+  122  sudo apt install nodejs
+  123  npm
+  124  cd Desktop/
+  125  ls
+  126  cd desktop/
+  127  ls
+  128  cd ..
+  129  cd thendoUmuzi/
+  130  ls
+  131  cd Thendo-Mufamadi-273-simple-calculator-part-1-javascript/
+  132  ls
+  133  ls -la
+  134  clear
+  135  npm
+  136  node
+  137  clear
+  138  npm
+  139  sudo apt install npm
+  140  npm init
+  141  clear
+  142  npm add jasmine
+  143  npx jasmine init
+  144  cat package.json 
+  145  npm install --save-dev jasmine
+  146  npx jasmine init
+  147  npm install -g jasmine
+  148  sudo npm install -g jasmine
+  149  jasmine init
+  150  import jasmine init
+  151  node 
+  152  node -v
+  153  clear
+  154  npm init
+  155  npm add jasmine
+  156  npm add jasmine .
+  157  npx jasmine init
+  158  npm add jasmine
+  159  npx add jasmine
+  160  mkdir src
+  161  mkdir spec
+  162  mkdir support
+  163  npm add jasmine
+  164  npx jasmine init
+  165  npm run test
+  166  node animal.js 
+  167  npm add jasmine
+  168  node animal.js 
+  169  git add "animal.js" 
+  170  git commit -m animal.js
+  171  git push 
+  172  git branch
+  173  git status
+  174  git add animal_part_1 
+  175  git commint -m "animal.js"
+  176  git commit -m "animal.js" 
+  177  git push
+  178  node simple-calculator.js
+  179  cd spec/
+  180  ls
+  181  cd ..
+  182  jasmine
+  183  jasmine test
+  184  npm run test
+  185  ls /
+  186  ls -la /
+  187  ls /
+  188  man ls
+  189  git status
+  190  git add README.md 
+  191  git commit -m "initial commit"
+  192  git log
+  193  q
+  194  nano README.md
+  195  cat README.md
+  196  git status
+  197  git add README.md 
+  198  git commit -m "second commit"
+  199  git commit -m "third commit"
+  200  nano README.md
+  201  git add README.md 
+  202  git commit -m "third commit"
+  203  git log
+  204  q
+  205  git checkout 814d9b755d38083854d916ed3c7f9d2da377f285
+  206  cat README.md
+  207  git checkout main
+  208  cat README.md
+  209  git branch
+  210  git branch -d master
+  211  git branch
+  212  git branch milkshake-flavours
+  213  git branch
+  214  git checkout
+  215  git checkout milkshake-flavours 
+  216  git branch
+  217  git checkout main
+  218  git branch
+  219  git checkout milkshake-flavours 
+  220  nano milkshakes.md
+  221  git status
+  222  git add milkshakes.md 
+  223  git commit -m "added initial flavours"
+  224  git log
+  225  git checkout main
+  226  git branch  history
+  227  git checkout
+  228  git log
+  229  git branch 
+  230  history > history.txt
+  231  git checkout history
+  232  history > history.txt
